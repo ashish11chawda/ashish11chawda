@@ -1,5 +1,7 @@
 # Hi, I am Ashish 👋
 
+<img src="https://pixan198.github.io/images/Developer.gif" alt="Developer" />
+
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning NodeJS and Competitive Programming
 - 👯 I’m looking to collaborate on Full Stack Web Development Projects
