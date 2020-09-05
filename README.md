@@ -11,7 +11,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-AshishChawda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashishchawda/)](https://www.linkedin.com/in/ashishchawda/)
 [![Twitter Badge](https://img.shields.io/badge/-@ashish11chawda-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashish11chawda)](https://twitter.com/ashish11chawda)
 [![Instagram Badge](https://img.shields.io/badge/-@_tachyon._-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_tachyon._/)](https://instagram.com/_tachyon._)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashish11chawda@gmail.com)](mailto:ashish11chawda@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ashish11chawda@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashish11chawda@gmail.com)](mailto:ashish11chawda@gmail.com)
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: We can talk about Astronomy all day.
