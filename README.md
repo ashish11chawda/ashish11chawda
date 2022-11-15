@@ -26,6 +26,7 @@
 <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-2e2e2e?style=flat-square&logo=intellijidea&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF7139?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
+
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning NodeJS and Competitive Programming
 - 👯 I’m looking to collaborate on Full Stack Web Development Projects
