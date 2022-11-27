@@ -27,11 +27,6 @@
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF7139?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning NodeJS and Competitive Programming
-- 👯 I’m looking to collaborate on Full Stack Web Development Projects
-- 🤔 I’m looking for help in finding internship opportunities
-- 💬 Ask me about JavaScript
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-AshishChawda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashish11chawda/)](https://www.linkedin.com/in/ashishchawda/)
 [![Twitter Badge](https://img.shields.io/badge/-@ashish11chawda-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashish11chawda)](https://twitter.com/ashish11chawda)
