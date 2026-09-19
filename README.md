@@ -12,7 +12,7 @@
   <a href="https://ashishchawda.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-ashishchawda-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
   <a href="https://x.com/ashish11chawda"><img src="https://img.shields.io/badge/X-@ashish11chawda-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.youtube.com/@ashish11chawda"><img src="https://img.shields.io/badge/YouTube-@ashish11chawda-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://instagram.com/_tachyon._"><img src="https://img.shields.io/badge/Instagram-@_tachyon._-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/ashish11chawda"><img src="https://img.shields.io/badge/Instagram-@ashish11chawda-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:ashish11chawda@gmail.com"><img src="https://img.shields.io/badge/Email-ashish11chawda%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
